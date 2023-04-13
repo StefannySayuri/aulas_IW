@@ -1,0 +1,18 @@
+p {
+    color: rgb(142, 142, 247);
+}
+.um {
+    color: blueviolet;
+}
+.dois {
+    color: aquamarine;
+}
+#titulo {
+    color: darkseagreen;
+    border: 2px solid blue;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+
