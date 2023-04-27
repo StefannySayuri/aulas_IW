@@ -1,0 +1,17 @@
+header{
+    background-color: crimson;
+}
+.banner{
+    width: 100%;
+}
+.conteiner{
+    width: 80%;
+    background-color: black;
+    color: aliceblue;
+    margin: auto;
+}
+footer{
+    width: 100%;
+    background-color: crimson;
+
+}
